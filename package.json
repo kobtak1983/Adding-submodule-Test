@@ -93,7 +93,7 @@
     "jquery": ">=3.4.0",
     "json-parser": "^1.1.5",
     "lodash": "^4.17.10",
-    "marked": "^0.6.0",
+    "marked": "^4.0.10",
     "mkdirp": "^0.5.1",
     "moment": "^2.22.2",
     "network": "^0.4.1",
